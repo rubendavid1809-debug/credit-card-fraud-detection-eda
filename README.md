@@ -44,3 +44,9 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - Aplicar técnicas de balanceo de clases
 - Construir modelos de clasificación (Logistic Regression, Random Forest)
 - Evaluar con métricas adecuadas para datos desbalanceados (Recall, Precision, F1-score)
+
+## 👨‍💻 Autor
+
+Rubén Barrios  
+
+Proyecto realizado como práctica de análisis de datos con Python, orientado al desarrollo profesional en el área de Data Analytics.
